@@ -1,0 +1,36 @@
+.input{
+    /* style={{
+        width: "500px",
+        height: "85px",
+        color: "grey",
+        fontSize: "19px",
+        borderRadius: "1opx",
+        border: "2px solid blue",
+      }} */
+      width: 480px;
+      height: 60px;
+      color: grey;
+      font-size: 19px;
+      border-radius: 10px;
+      border: 2px solid blue;
+}
+.textarea{
+    /* style={{
+        width: "500px",
+       color: "grey",
+       fontSize: "19px",
+       borderRadius: "10px",
+       border: "2px solid red",
+     }} */
+     width: 480px;
+     color: grey;
+     font-size: 19px;
+     border-radius: 10px;
+     border: 2px solid red;
+}
+.btn10{
+    /* style={{ backgroundColor: "#ffc800", color: "white", fontSize: "25px" }} */
+    background-color: #ffc800;
+    color: white;
+    font-size: 25px;
+}

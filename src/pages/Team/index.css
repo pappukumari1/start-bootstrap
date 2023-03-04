@@ -1,0 +1,20 @@
+.avt {
+  /* style={{backgroundColor:"grey",width:"220px",height:"220px",marginLeft:"85px",marginBottom:"30px",border:"8px solid grey"}} */
+
+background-color:grey ;
+width: 220px;
+height: 220px;
+margin-left: 50px;
+margin-bottom: 30px;
+border: 8px solid gray;
+}
+.avt1{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+}
+.p1{
+    /* style={{fontSize:"20px",fontWeight:"bold"}} */
+    font-size: 20px;
+    font-weight: bold;
+}

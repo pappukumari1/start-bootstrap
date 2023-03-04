@@ -1,0 +1,37 @@
+.btn{
+    position: relative;
+    top: 1.5rem;
+    color: white;
+    left: 15%;
+    right: 15%;
+   
+}
+.btn1{
+    position: absolute;
+    top: 85%;
+    color: white;
+    left: 50%;
+    /* right: 20%; */
+    transform: translate(-50%, -50%);
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-left: 190px;
+    margin-right: 190px; */
+    /* gap: 170px; */
+    color: grey;
+    width: 100%;
+    font-size: 47px;
+    font-weight: bold;
+}
+.btnTell{
+    
+       
+        background-color: #fbae01;
+        color:white;
+        font-size: 23px;
+        font-weight: bold;
+    
+}
