@@ -14,7 +14,7 @@ import MultiCarousal from "./components/caruosal";
 function App() {
   return (
     <div className="App">
-      {/* <Navbar />
+      <Navbar />
       <Banner />
 
       <Services />
@@ -43,8 +43,8 @@ function App() {
       </div>
       <Client />
       <Contact />
-      <Footer /> */}
-      <MultiCarousal/>
+      <Footer />
+      {/* <MultiCarousal/> */}
     </div>
   );
 }
